@@ -1,16 +1,23 @@
-## Hi there 👋
+🚀 Welcome to My GitHub Profile!
+👋 Hi, I'm Aditya Sharma, a Full-Stack Developer with expertise in JavaScript, Java, and scalable web applications. I enjoy building high-performance platforms, solving real-world challenges, and optimizing user experiences.
 
-<!--
-**adityasharma191204/adityasharma191204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 About Me
+💻 Tech Stack: JavaScript | ReactJs | NodeJs | MongoDB | ExpressJs | Java | MySQL
+🚀 Currently Learning: Cloud Computing & System Design
+🎯 Goals: Contribute to open-source, enhance backend efficiency & build scalable web solutions
 
-Here are some ideas to get you started:
+🌟 Key Projects
+✅ ParkNGo – Working on a patented online parking management system with real-time tracking
+✅ AdTravelz – Built a platform with 1000+ registered users for booking tours, optimizing user effort by 40%
+✅ Swing – Designed a real-time stock trading platform with live price updates & secure authentication
+✅ Vastraz – Developed a responsive E-commerce platform, improving site speed by 35%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Achievements
+🎖️ Hack The Mountains 5.0 – Collaborated on an innovative tech solution, competing against 200+ teams
+🎖️ Certifications – Google Cloud AI | Cisco Cybersecurity | Infosys Agile Development
+
+📫 Let's Connect!
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-sharma-182651258/
+📧 E-mail: adityas191204@gmail.com
+
+🚀 Explore my repositories & let’s build something amazing together! 💡
